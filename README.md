@@ -37,7 +37,7 @@ R, Data Cleaning, Logistic Regression
   * Tools: R (data manipulation, ggplot2, statistical modeling)
 
 ### EXPERIENCE			
-Medical Lab Technologist
+Medical Technologist
 Advocate Clinical Laboratories(ACL)—Rosemont, IL, 60018
 [July 2023 – July 2024]
   * Performed routine and specialized laboratory tests in areas such as hematology, microbiology, and chemistry.
@@ -47,7 +47,7 @@ Analyzed test results and provided accurate reports to healthcare providers.
  * Collaborated with healthcare team members to discuss test results and support patient diagnosis and treatment.
  * Instruments : Siemens Vista, Abbott Architect, Biorad Bioplex, Centaur, Diasorin Liaison XL,   AIX 1000 RPR, Phadia 1000 
 
-Medical Lab Technologist
+Medical Technologist
 NorthShore University HealthSystem— Evanston, IL, 60201
 [Feb,2020 – July, 2023]
  * Conducted diagnostic tests including blood, urine, and tissue samples.
