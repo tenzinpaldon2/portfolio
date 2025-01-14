@@ -22,19 +22,20 @@ Bachelor of Science | Integrated Health Science	                                
 
 
 ### PROJECTS			
-Predicting Student Performance Using Machine Learning
-Developed machine learning models using data from two schools in Portugal to predict final grades (G3) based on features like study habits, parental education, travel time, and past course failures.
-Implemented Linear Regression, SVM Regression, and Lasso Regression to analyze performance; achieved an RMSE of 2.26 and R² of 0.75 with models including G1 and G2 (previous term grades).
-Designed a secondary model excluding G1 and G2 to enable early intervention, helping schools identify and support struggling students in a timely manner.
-Optimized SVM hyperparameters using grid search for enhanced model performance.
-Delivered actionable insights for resource allocation and academic support strategies.
-Predicting Smoking Behavior Using Socioeconomic and Mental Health Factors
+#### Predicting Student Performance Using Machine Learning
+  * Developed machine learning models using data from two schools in Portugal to predict final grades (G3) based on features like study habits, parental education, travel time, and past course failures.
+  * Implemented Linear Regression, SVM Regression, and Lasso Regression to analyze performance; achieved an RMSE of 2.26 and R² of 0.75 with models including G1 and G2 (previous term grades).
+  * Designed a secondary model excluding G1 and G2 to enable early intervention, helping schools identify and support struggling students in a timely manner.
+  * Optimized SVM hyperparameters using grid search for enhanced model performance.
+  * Delivered actionable insights for resource allocation and academic support strategies.
+    
+#### Predicting Smoking Behavior Using Socioeconomic and Mental Health Factors
 R, Data Cleaning, Logistic Regression
-Cleaned and preprocessed data from the CDC’s Behavioral Risk Factor Surveillance System (BRFSS) to predict smoking behavior based on mental health status, education level, and income.
-Conducted exploratory data analysis using ggplot2 to visualize the distribution of smoking behavior across education levels and mental health status.
-Performed Chi-squared test and ANOVA to analyze the relationship between smoking behavior (SMOKE100) and education (EDUCA) and mental health (MENTHLTH), finding a significant association between smoking and both factors.
-Built logistic regression models to predict smoking behavior with mental health and education level, and mental health and income level, yielding insights into key predictors of smoking behavior.
-Tools: R (data manipulation, ggplot2, statistical modeling)
+  * Cleaned and preprocessed data from the CDC’s Behavioral Risk Factor Surveillance System (BRFSS) to predict smoking behavior based on mental health status, education level, and income.
+  * Conducted exploratory data analysis using ggplot2 to visualize the distribution of smoking behavior across education levels and mental health status.
+  * Performed Chi-squared test and ANOVA to analyze the relationship between smoking behavior (SMOKE100) and education (EDUCA) and mental health (MENTHLTH), finding a significant association between smoking and both factors.
+  * Built logistic regression models to predict smoking behavior with mental health and education level, and mental health and income level, yielding insights into key predictors of smoking behavior.
+  * Tools: R (data manipulation, ggplot2, statistical modeling)
 
 ### EXPERIENCE			
 Medical Lab Technologist
