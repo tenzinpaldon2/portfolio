@@ -40,23 +40,24 @@ R, Data Cleaning, Logistic Regression
 ### EXPERIENCE			
 Medical Lab Technologist
 Advocate Clinical Laboratories(ACL)—Rosemont, IL, 60018
-[July 2023] – Present
-Performed routine and specialized laboratory tests in areas such as hematology, microbiology, and chemistry.
+[July 2023 – July 2024]
+  * Performed routine and specialized laboratory tests in areas such as hematology, microbiology, and chemistry.
 Analyzed test results and provided accurate reports to healthcare providers.
-Maintained and calibrated laboratory equipment to ensure optimal performance and compliance with safety standards.
-Implemented quality control procedures to maintain accuracy and reliability of test results.
-Collaborated with healthcare team members to discuss test results and support patient diagnosis and treatment.
-Instruments : Siemens Vista, Abbott Architect, Biorad Bioplex, Centaur, Diasorin Liaison XL,   AIX 1000 RPR, Phadia 1000 
+ * Maintained and calibrated laboratory equipment to ensure optimal performance and compliance with safety standards.
+ * Implemented quality control procedures to maintain accuracy and reliability of test results.
+ * Collaborated with healthcare team members to discuss test results and support patient diagnosis and treatment.
+ * Instruments : Siemens Vista, Abbott Architect, Biorad Bioplex, Centaur, Diasorin Liaison XL,   AIX 1000 RPR, Phadia 1000 
+
 Medical Lab Technologist
 NorthShore University HealthSystem— Evanston, IL, 60201
 [Feb,2020 – July, 2023]
-Conducted diagnostic tests including blood, urine, and tissue samples.
-Ensured timely and accurate processing of specimens in accordance with established protocols.
-Documented and communicated test findings in the Laboratory Information System (LIS).
-Assisted in training and mentoring new laboratory personnel.
-Monitored and resolved any issues with laboratory instruments and test results.
-Instruments : Roche Cobas 8000, Sysmex XN , Akray & Iris, Siemens BCS-XP, Stago R Max, Sebia Hydrasys Electrophoresis, Thermo Fisher Phadia 1000
+ * Conducted diagnostic tests including blood, urine, and tissue samples.
+ * Ensured timely and accurate processing of specimens in accordance with established protocols.
+ * Documented and communicated test findings in the Laboratory Information System (LIS).
+ * Assisted in training and mentoring new laboratory personnel.
+ * Monitored and resolved any issues with laboratory instruments and test results.
+ * Instruments : Roche Cobas 8000, Sysmex XN , Akray & Iris, Siemens BCS-XP, Stago R Max, Sebia Hydrasys Electrophoresis, Thermo Fisher Phadia 1000
 
 ### Certifications
-NYC Clinical Laboratory Technologist License
-ASCP (MLS) Medical Laboratory Science       
+ * NYC Clinical Laboratory Technologist License
+ * ASCP (MLS) Medical Laboratory Science       
