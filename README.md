@@ -10,14 +10,14 @@ An aspiring Data Scientist with a background in medical technology, dedicated to
 * Analytical Techniques:  (Machine Learning, Regression Analysis, Clustering, etc)
 
 ### EDUCATION			
-Eastern University(EU)	                                                  ST. DAVIDS, PA
-Master of Science | Data Science    	                                       2023- 2025
+* Eastern University(EU)	                                                  ST. DAVIDS, PA
+  * Master of Science | Data Science    	                                       2023- 2025
 
-NorthShore University HealthSystem/ Endeavor Health                         Evanston, IL
-post-baccalaureate | Medical Lab Science                                    2021-2022
+* NorthShore University HealthSystem/ Endeavor Health                         Evanston, IL
+  * post-baccalaureate | Medical Lab Science                                    2021-2022
 
-University of Illinois Chicago(UIC)		                                        	Chicago, IL
-Bachelor of Science | Integrated Health Science	                              2014-2018
+* University of Illinois Chicago(UIC)		                                        	Chicago, IL
+  * Bachelor of Science | Integrated Health Science	                              2014-2018
 
 
 ### PROJECTS			
