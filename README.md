@@ -4,11 +4,10 @@
 An aspiring Data Scientist with a background in medical technology, dedicated to developing expertise in data analysis, machine learning, and statistical modeling. Experienced in working with complex datasets and committed to leveraging technical skills to extract insights and solve problems. Eager to gain hands-on experience in data science and contribute to data-driven decision-making processes. Passionate about continuous learning and applying analytical skills to improve outcomes and support innovation across various industries.
 
 ### SKILLS				
-Programming:  (Python, R, SQL)
-Visualization:  (Tableau, gglplot, PowerBI, etc)
-Databases:  (MySQL)
-Analytical Techniques:  (Machine Learning, Regression Analysis, Clustering, etc)
-Github: 
+* Programming:  (Python, R, SQL)
+* Visualization:  (Tableau, gglplot, PowerBI, etc)
+* Databases:  (MySQL)
+* Analytical Techniques:  (Machine Learning, Regression Analysis, Clustering, etc)
 
 ### EDUCATION			
 Eastern University(EU)	                              ST. DAVIDS, PA
